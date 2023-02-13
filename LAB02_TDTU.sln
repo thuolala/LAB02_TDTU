@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB02_TDTU", "LAB02_TDTU\LAB02_TDTU.csproj", "{0D22AF2E-A2C2-4640-86FA-899C34C72108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D22AF2E-A2C2-4640-86FA-899C34C72108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D22AF2E-A2C2-4640-86FA-899C34C72108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D22AF2E-A2C2-4640-86FA-899C34C72108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D22AF2E-A2C2-4640-86FA-899C34C72108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D4641A-9E83-49A7-977F-7E5354844CAD}
+	EndGlobalSection
+EndGlobal
